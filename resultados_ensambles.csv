@@ -1,0 +1,5 @@
+modelo,accuracy_train,f1_train,accuracy_test,f1_test
+Random Forest,1.0,1.0,0.9737,0.963
+Gradient Boosting,1.0,1.0,0.9649,0.95
+Voting,0.9868,0.982,0.9649,0.95
+Stacking,0.9912,0.9881,0.9912,0.988
